@@ -4,6 +4,8 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=justy)](https://solved.ac/justy/)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JungChangwoo&layout=compact&theme=gruvbox)
+
 # 💪Skills
 ### Platforms & Languages
 ![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white)
